@@ -79,6 +79,6 @@ Visit our website for more information: [https://tracey.rcc.uchicago.edu/](https
 
 Tracey is currently available to a select group of collaborators and early users. If you are interested in trying Tracey, please reach out:
 
-**Email:** xxx@xxx.com
+**Email:** reproducibility@rcc.uchicago.edu
 
 We will get back to you with access instructions.
